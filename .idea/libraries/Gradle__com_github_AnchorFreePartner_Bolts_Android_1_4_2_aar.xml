@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFreePartner:Bolts-Android:1.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de36e4d12e8f24485ed9383b110f566e/jetified-Bolts-Android-1.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de36e4d12e8f24485ed9383b110f566e/jetified-Bolts-Android-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/de36e4d12e8f24485ed9383b110f566e/jetified-Bolts-Android-1.4.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnchorFreePartner/Bolts-Android/1.4.2/196a30f1f6d6e8807c67636c906fb4ff4cca52b4/Bolts-Android-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

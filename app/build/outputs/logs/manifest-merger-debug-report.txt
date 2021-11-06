@@ -1,0 +1,957 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2b30cd1bd333c8b74deb34087ccee3e5\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.infideap.drawerbehavior:drawer-behavior:1.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ead6dd728650751ca8c6364f2ae4b1a9\jetified-drawer-behavior-1.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.5.0-alpha01] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e62d735df79269e5891f297ebccb82e2\material-1.5.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8969ca42448f6ea78eaaf700e04ed087\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:17:1-29:12
+MERGED from [com.github.GrenderG:Toasty:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dd14daae00e5ca5acd6e0609f3a3068d\jetified-Toasty-1.5.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:2:1-23:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:2:1-43:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-transport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d295d2551682946e509122b26bfeec92\jetified-openvpn-transport-0.18.2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:switcher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e8c4c93871147d7c29ed46481b741d26\jetified-switcher-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-carrier:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\65630ddf7794fe787d5355e18cd44788\jetified-sdk-carrier-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-cnl:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\76679a07365529963eac0724b25bea18\jetified-sdk-cnl-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\06c789a16f67a120e44d47e7ec282881\jetified-sdk-analytics-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-remote-file:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\694c9f8bbd0b4254d3b81e0ca34ca068\jetified-sdk-remote-file-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f0669b5857b7427637c69df02bae1e7f\jetified-sdk-store-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-interface:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ad1a07b156bb3a69265dae1f0594974f\jetified-sdk-interface-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:2:1-43:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:partner-api:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f58cff1fe776ffeeacd91716f0136654\jetified-partner-api-3.4.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-utils:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\cbd19d1ba0cab96ee1b2e1fe3203e428\jetified-sdk-utils-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8e84dbc3567333f09664653d6658f199\jetified-store-3.4.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.AnchorFreePartner.toolkit-android:toolkit:1.5.7] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ef0ed608d3ed75dc4d825e6a0f0b8614\jetified-toolkit-1.5.7\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8806ea530cdd3cdc81dac22bb3f44975\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\32c956216a17fc1e434ea3969fc95865\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8d71775b8d579c19b0ad289953fed8e\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0703cc4c6ce76b990c6764da3b76fd0c\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ff50a0f038be36054faf132265493beb\jetified-butterknife-10.2.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8309e08c05b36907c3503613a2c9c597\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ads.mediation:facebook:6.5.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2251ee1eee712fee66e5ecdfa7f29e47\jetified-facebook-6.5.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\687493c82a05fad234b4d1ac3393ed18\jetified-play-services-ads-20.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [pl.bclogic:pulsator4droid:1.0.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0bfd08cfeb69bcf66b32fb1291ffd6b4\jetified-pulsator4droid-1.0.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4de338e0874a36c4b9c77d914b324989\jetified-library-1.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [net.igenius:customcheckbox:1.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\b418092af3676d4f140b35e662d36551\jetified-customcheckbox-1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4c86721569510d94f90a303d07b3033c\jetified-aar-hydra-0.18.2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ac06a7c57fadc19652d043125cd5d918\jetified-sdk-events-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\de36e4d12e8f24485ed9383b110f566e\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-aar:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d1d371dc11d68f096b65c22380c4195f\jetified-openvpn-aar-0.18.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.android.gms:play-services-ads-base:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e39c242921252e2045c55a7874b5acaa\jetified-play-services-ads-base-20.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\35bd0e03573b826adffacb5fdc724e73\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d507417171f98b45bcf75a79a3c303c0\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6b85986c04c888f5f185520639b503b4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:2:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5f3d78b11e67efeda0694653324b8fca\jetified-play-services-measurement-base-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8cae08359f93ef76ff7aff7645fff55d\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\13a1304d061b6ae3c68cd96e211561d9\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1c6172000d5a32930b86c057e69553d6\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ef7fe290792ea1a3a96a2b38b6ea00d8\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\923af3109b4873db562030cafd3d4e82\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2bc863a071ce89483c6e0e275b58a467\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\add08e99dc0ac84688102654a125011a\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e7b7ff21eea447aaaf527598b31ad36c\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\56dc6ecdedfd7e873d04f024307845f1\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\629220eead6b32215f248df4492c788b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\27c6120f58be4b3aac8f30783d33b90d\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\37a98c2ccaa24b22436026d2fdfc789b\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\547455cdc73b1545036acfb54c88fd38\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ed90e1db45cd69496cbfd2f37e5beed5\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4f75ebf655e807e77613e61ef91bc242\jetified-butterknife-runtime-10.2.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c787938ecb4d89f4d6a09895ec7c47fa\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\85b3080cbae592001a6da05eb17b1116\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ce3269d7a02bbf689d0a4f66e219499c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\31fe3ab314871470948011b5d6b4f4f0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\70da0e13e485919fd1502805ad86006d\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:17:1-125:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9493e1e081704e9f811c1cfcf1f1fe10\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\730288528af1bc0f2e11e6ae747a0d46\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\050a4550922dd841ae91c45378a32811\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8a8ae7cdb8369011d907fc09924a15f2\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7f603bb63ff95d5af2fab45d52c778de\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\61b3673e97d49d666c5e94da27bc41a0\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\96bd52e09f49d3371e29461b0aa8f492\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:celpher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dfc74c1aafbdb9e24e108671dbcc0a83\jetified-celpher-3.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:logger:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\59e05467e5589f32b16565be8d533221\jetified-logger-0.18.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d2df107dc10fc7c8303dcd28fab128a3\jetified-sdk-compat-3.4.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:reporting:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a1981ae1fb615580b1fdc8b4e79d34ad\jetified-reporting-0.18.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.AnchorFree.hydra-vpn-android:pingtool:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c1b11f2d437ec2604e618665700680ff\jetified-pingtool-0.18.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a87a5b48bcc3bf9f94caa352285c7edf\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d10f7748eb5c63f636af7fae13f48021\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1430f90335ee297a0464fc1560f6d74a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\b1e7dc42e36e48fec2f0f519d07acb3f\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5afa9cdc4133f9a1ddb737ec6806a1e0\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\67184904731337762b8176666e5a8323\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0ae40ba6798c6bd7d60e418d7c22a28b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9999d81a087bc798f00020bd3bfeacfa\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1f3fa90f21ffcef82ba744e046667298\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8f8d322d4791e7921184d6ea8b5980c9\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9ab7c213382ebf459b80409cbbe02337\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7e7f2e440219fd2d02137095db068ed7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.AnchorFreePartner:ReLinker:1.3.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c43076eae788744cb0ff669eb6951b02\jetified-ReLinker-1.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\341aa7d30ba8eba6757f28d8aeb7df9b\jetified-soloader-0.6.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:13:5-67
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:13:5-67
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:12:5-67
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:15:5-77
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:15:5-77
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:13:5-77
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:10:5-42:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.infideap.drawerbehavior:drawer-behavior:1.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ead6dd728650751ca8c6364f2ae4b1a9\jetified-drawer-behavior-1.0.1\AndroidManifest.xml:11:5-53
+MERGED from [com.infideap.drawerbehavior:drawer-behavior:1.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ead6dd728650751ca8c6364f2ae4b1a9\jetified-drawer-behavior-1.0.1\AndroidManifest.xml:11:5-53
+MERGED from [com.google.android.material:material:1.5.0-alpha01] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e62d735df79269e5891f297ebccb82e2\material-1.5.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0-alpha01] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e62d735df79269e5891f297ebccb82e2\material-1.5.0-alpha01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8969ca42448f6ea78eaaf700e04ed087\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8969ca42448f6ea78eaaf700e04ed087\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:11:5-21:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:11:5-21:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:17:5-41:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:17:5-41:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-transport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d295d2551682946e509122b26bfeec92\jetified-openvpn-transport-0.18.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-transport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d295d2551682946e509122b26bfeec92\jetified-openvpn-transport-0.18.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:switcher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e8c4c93871147d7c29ed46481b741d26\jetified-switcher-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:switcher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e8c4c93871147d7c29ed46481b741d26\jetified-switcher-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-carrier:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\65630ddf7794fe787d5355e18cd44788\jetified-sdk-carrier-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-carrier:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\65630ddf7794fe787d5355e18cd44788\jetified-sdk-carrier-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:11:5-16:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-cnl:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\76679a07365529963eac0724b25bea18\jetified-sdk-cnl-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-cnl:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\76679a07365529963eac0724b25bea18\jetified-sdk-cnl-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\06c789a16f67a120e44d47e7ec282881\jetified-sdk-analytics-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\06c789a16f67a120e44d47e7ec282881\jetified-sdk-analytics-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-remote-file:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\694c9f8bbd0b4254d3b81e0ca34ca068\jetified-sdk-remote-file-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-remote-file:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\694c9f8bbd0b4254d3b81e0ca34ca068\jetified-sdk-remote-file-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f0669b5857b7427637c69df02bae1e7f\jetified-sdk-store-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f0669b5857b7427637c69df02bae1e7f\jetified-sdk-store-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:14:5-28:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:14:5-28:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-interface:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ad1a07b156bb3a69265dae1f0594974f\jetified-sdk-interface-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-interface:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ad1a07b156bb3a69265dae1f0594974f\jetified-sdk-interface-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:15:5-41:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:15:5-41:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:partner-api:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f58cff1fe776ffeeacd91716f0136654\jetified-partner-api-3.4.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:partner-api:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f58cff1fe776ffeeacd91716f0136654\jetified-partner-api-3.4.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-utils:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\cbd19d1ba0cab96ee1b2e1fe3203e428\jetified-sdk-utils-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-utils:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\cbd19d1ba0cab96ee1b2e1fe3203e428\jetified-sdk-utils-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8e84dbc3567333f09664653d6658f199\jetified-store-3.4.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8e84dbc3567333f09664653d6658f199\jetified-store-3.4.0\AndroidManifest.xml:11:5-17:19
+MERGED from [pl.bclogic:pulsator4droid:1.0.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0bfd08cfeb69bcf66b32fb1291ffd6b4\jetified-pulsator4droid-1.0.3\AndroidManifest.xml:11:5-15:19
+MERGED from [pl.bclogic:pulsator4droid:1.0.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0bfd08cfeb69bcf66b32fb1291ffd6b4\jetified-pulsator4droid-1.0.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4c86721569510d94f90a303d07b3033c\jetified-aar-hydra-0.18.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4c86721569510d94f90a303d07b3033c\jetified-aar-hydra-0.18.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ac06a7c57fadc19652d043125cd5d918\jetified-sdk-events-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ac06a7c57fadc19652d043125cd5d918\jetified-sdk-events-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\de36e4d12e8f24485ed9383b110f566e\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\de36e4d12e8f24485ed9383b110f566e\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:9:5-10:19
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:45:5-64:19
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:45:5-64:19
+MERGED from [com.google.android.gms:play-services-ads-base:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e39c242921252e2045c55a7874b5acaa\jetified-play-services-ads-base-20.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e39c242921252e2045c55a7874b5acaa\jetified-play-services-ads-base-20.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d507417171f98b45bcf75a79a3c303c0\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d507417171f98b45bcf75a79a3c303c0\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6b85986c04c888f5f185520639b503b4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6b85986c04c888f5f185520639b503b4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:18:5-29:19
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:18:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5f3d78b11e67efeda0694653324b8fca\jetified-play-services-measurement-base-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5f3d78b11e67efeda0694653324b8fca\jetified-play-services-measurement-base-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9493e1e081704e9f811c1cfcf1f1fe10\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9493e1e081704e9f811c1cfcf1f1fe10\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d2df107dc10fc7c8303dcd28fab128a3\jetified-sdk-compat-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d2df107dc10fc7c8303dcd28fab128a3\jetified-sdk-compat-3.4.0\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a87a5b48bcc3bf9f94caa352285c7edf\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a87a5b48bcc3bf9f94caa352285c7edf\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\341aa7d30ba8eba6757f28d8aeb7df9b\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\341aa7d30ba8eba6757f28d8aeb7df9b\jetified-soloader-0.6.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9493e1e081704e9f811c1cfcf1f1fe10\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:14:9-41
+	tools:ignore
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:18:9-48
+	android:roundIcon
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:19:9-28
+	android:icon
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:12:9-35
+	android:networkSecurityConfig
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:18:9-81
+	android:theme
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:11:9-61
+activity#com.softmaster.airvpn.activity.SplashActivity
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:theme
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:22:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.softmaster.airvpn.activity.About
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:30:19-70
+activity#com.softmaster.airvpn.activity.Faq
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:31:9-71
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:31:19-68
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:32:9-34:52
+	android:value
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:33:13-69
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:35:9-37:36
+	android:value
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:37:13-33
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:36:13-69
+activity#com.softmaster.airvpn.activity.MainActivity
+ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:39:9-41:15
+	android:launchMode
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:39:19-77
+uses-sdk
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2b30cd1bd333c8b74deb34087ccee3e5\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2b30cd1bd333c8b74deb34087ccee3e5\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.infideap.drawerbehavior:drawer-behavior:1.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ead6dd728650751ca8c6364f2ae4b1a9\jetified-drawer-behavior-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.infideap.drawerbehavior:drawer-behavior:1.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ead6dd728650751ca8c6364f2ae4b1a9\jetified-drawer-behavior-1.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.5.0-alpha01] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e62d735df79269e5891f297ebccb82e2\material-1.5.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0-alpha01] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e62d735df79269e5891f297ebccb82e2\material-1.5.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8969ca42448f6ea78eaaf700e04ed087\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8969ca42448f6ea78eaaf700e04ed087\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.GrenderG:Toasty:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dd14daae00e5ca5acd6e0609f3a3068d\jetified-Toasty-1.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GrenderG:Toasty:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dd14daae00e5ca5acd6e0609f3a3068d\jetified-Toasty-1.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-transport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d295d2551682946e509122b26bfeec92\jetified-openvpn-transport-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-transport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d295d2551682946e509122b26bfeec92\jetified-openvpn-transport-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:switcher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e8c4c93871147d7c29ed46481b741d26\jetified-switcher-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:switcher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e8c4c93871147d7c29ed46481b741d26\jetified-switcher-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-carrier:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\65630ddf7794fe787d5355e18cd44788\jetified-sdk-carrier-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-carrier:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\65630ddf7794fe787d5355e18cd44788\jetified-sdk-carrier-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-cnl:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\76679a07365529963eac0724b25bea18\jetified-sdk-cnl-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-cnl:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\76679a07365529963eac0724b25bea18\jetified-sdk-cnl-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\06c789a16f67a120e44d47e7ec282881\jetified-sdk-analytics-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\06c789a16f67a120e44d47e7ec282881\jetified-sdk-analytics-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-remote-file:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\694c9f8bbd0b4254d3b81e0ca34ca068\jetified-sdk-remote-file-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-remote-file:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\694c9f8bbd0b4254d3b81e0ca34ca068\jetified-sdk-remote-file-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f0669b5857b7427637c69df02bae1e7f\jetified-sdk-store-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f0669b5857b7427637c69df02bae1e7f\jetified-sdk-store-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-interface:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ad1a07b156bb3a69265dae1f0594974f\jetified-sdk-interface-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-interface:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ad1a07b156bb3a69265dae1f0594974f\jetified-sdk-interface-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:partner-api:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f58cff1fe776ffeeacd91716f0136654\jetified-partner-api-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:partner-api:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f58cff1fe776ffeeacd91716f0136654\jetified-partner-api-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-utils:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\cbd19d1ba0cab96ee1b2e1fe3203e428\jetified-sdk-utils-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-utils:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\cbd19d1ba0cab96ee1b2e1fe3203e428\jetified-sdk-utils-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8e84dbc3567333f09664653d6658f199\jetified-store-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8e84dbc3567333f09664653d6658f199\jetified-store-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.toolkit-android:toolkit:1.5.7] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ef0ed608d3ed75dc4d825e6a0f0b8614\jetified-toolkit-1.5.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.toolkit-android:toolkit:1.5.7] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ef0ed608d3ed75dc4d825e6a0f0b8614\jetified-toolkit-1.5.7\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8806ea530cdd3cdc81dac22bb3f44975\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8806ea530cdd3cdc81dac22bb3f44975\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\32c956216a17fc1e434ea3969fc95865\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\32c956216a17fc1e434ea3969fc95865\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8d71775b8d579c19b0ad289953fed8e\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8d71775b8d579c19b0ad289953fed8e\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0703cc4c6ce76b990c6764da3b76fd0c\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0703cc4c6ce76b990c6764da3b76fd0c\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ff50a0f038be36054faf132265493beb\jetified-butterknife-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ff50a0f038be36054faf132265493beb\jetified-butterknife-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8309e08c05b36907c3503613a2c9c597\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8309e08c05b36907c3503613a2c9c597\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.ads.mediation:facebook:6.5.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2251ee1eee712fee66e5ecdfa7f29e47\jetified-facebook-6.5.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.ads.mediation:facebook:6.5.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2251ee1eee712fee66e5ecdfa7f29e47\jetified-facebook-6.5.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\687493c82a05fad234b4d1ac3393ed18\jetified-play-services-ads-20.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\687493c82a05fad234b4d1ac3393ed18\jetified-play-services-ads-20.2.0\AndroidManifest.xml:21:5-23:52
+MERGED from [pl.bclogic:pulsator4droid:1.0.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0bfd08cfeb69bcf66b32fb1291ffd6b4\jetified-pulsator4droid-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.bclogic:pulsator4droid:1.0.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0bfd08cfeb69bcf66b32fb1291ffd6b4\jetified-pulsator4droid-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4de338e0874a36c4b9c77d914b324989\jetified-library-1.9.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4de338e0874a36c4b9c77d914b324989\jetified-library-1.9.0\AndroidManifest.xml:8:5-10:41
+MERGED from [net.igenius:customcheckbox:1.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\b418092af3676d4f140b35e662d36551\jetified-customcheckbox-1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [net.igenius:customcheckbox:1.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\b418092af3676d4f140b35e662d36551\jetified-customcheckbox-1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4c86721569510d94f90a303d07b3033c\jetified-aar-hydra-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:aar-hydra:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4c86721569510d94f90a303d07b3033c\jetified-aar-hydra-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ac06a7c57fadc19652d043125cd5d918\jetified-sdk-events-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-events:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ac06a7c57fadc19652d043125cd5d918\jetified-sdk-events-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\de36e4d12e8f24485ed9383b110f566e\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.AnchorFreePartner:Bolts-Android:1.4.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\de36e4d12e8f24485ed9383b110f566e\jetified-Bolts-Android-1.4.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-aar:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d1d371dc11d68f096b65c22380c4195f\jetified-openvpn-aar-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:openvpn-aar:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d1d371dc11d68f096b65c22380c4195f\jetified-openvpn-aar-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e39c242921252e2045c55a7874b5acaa\jetified-play-services-ads-base-20.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e39c242921252e2045c55a7874b5acaa\jetified-play-services-ads-base-20.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\35bd0e03573b826adffacb5fdc724e73\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\35bd0e03573b826adffacb5fdc724e73\jetified-user-messaging-platform-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d507417171f98b45bcf75a79a3c303c0\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d507417171f98b45bcf75a79a3c303c0\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6b85986c04c888f5f185520639b503b4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6b85986c04c888f5f185520639b503b4\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5f3d78b11e67efeda0694653324b8fca\jetified-play-services-measurement-base-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5f3d78b11e67efeda0694653324b8fca\jetified-play-services-measurement-base-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8cae08359f93ef76ff7aff7645fff55d\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8cae08359f93ef76ff7aff7645fff55d\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\13a1304d061b6ae3c68cd96e211561d9\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\13a1304d061b6ae3c68cd96e211561d9\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1c6172000d5a32930b86c057e69553d6\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1c6172000d5a32930b86c057e69553d6\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ef7fe290792ea1a3a96a2b38b6ea00d8\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ef7fe290792ea1a3a96a2b38b6ea00d8\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\923af3109b4873db562030cafd3d4e82\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\923af3109b4873db562030cafd3d4e82\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2bc863a071ce89483c6e0e275b58a467\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\2bc863a071ce89483c6e0e275b58a467\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\add08e99dc0ac84688102654a125011a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\add08e99dc0ac84688102654a125011a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e7b7ff21eea447aaaf527598b31ad36c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\e7b7ff21eea447aaaf527598b31ad36c\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\56dc6ecdedfd7e873d04f024307845f1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\56dc6ecdedfd7e873d04f024307845f1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\629220eead6b32215f248df4492c788b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\629220eead6b32215f248df4492c788b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\27c6120f58be4b3aac8f30783d33b90d\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\27c6120f58be4b3aac8f30783d33b90d\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\37a98c2ccaa24b22436026d2fdfc789b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\37a98c2ccaa24b22436026d2fdfc789b\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\547455cdc73b1545036acfb54c88fd38\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\547455cdc73b1545036acfb54c88fd38\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ed90e1db45cd69496cbfd2f37e5beed5\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ed90e1db45cd69496cbfd2f37e5beed5\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4f75ebf655e807e77613e61ef91bc242\jetified-butterknife-runtime-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4f75ebf655e807e77613e61ef91bc242\jetified-butterknife-runtime-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c787938ecb4d89f4d6a09895ec7c47fa\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c787938ecb4d89f4d6a09895ec7c47fa\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\85b3080cbae592001a6da05eb17b1116\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\85b3080cbae592001a6da05eb17b1116\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ce3269d7a02bbf689d0a4f66e219499c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ce3269d7a02bbf689d0a4f66e219499c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\31fe3ab314871470948011b5d6b4f4f0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\31fe3ab314871470948011b5d6b4f4f0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\70da0e13e485919fd1502805ad86006d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\70da0e13e485919fd1502805ad86006d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9493e1e081704e9f811c1cfcf1f1fe10\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9493e1e081704e9f811c1cfcf1f1fe10\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\730288528af1bc0f2e11e6ae747a0d46\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\730288528af1bc0f2e11e6ae747a0d46\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\050a4550922dd841ae91c45378a32811\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\050a4550922dd841ae91c45378a32811\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8a8ae7cdb8369011d907fc09924a15f2\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8a8ae7cdb8369011d907fc09924a15f2\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7f603bb63ff95d5af2fab45d52c778de\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7f603bb63ff95d5af2fab45d52c778de\jetified-lifecycle-service-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\61b3673e97d49d666c5e94da27bc41a0\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\61b3673e97d49d666c5e94da27bc41a0\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\96bd52e09f49d3371e29461b0aa8f492\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\96bd52e09f49d3371e29461b0aa8f492\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:celpher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dfc74c1aafbdb9e24e108671dbcc0a83\jetified-celpher-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:celpher:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dfc74c1aafbdb9e24e108671dbcc0a83\jetified-celpher-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:logger:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\59e05467e5589f32b16565be8d533221\jetified-logger-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:logger:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\59e05467e5589f32b16565be8d533221\jetified-logger-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d2df107dc10fc7c8303dcd28fab128a3\jetified-sdk-compat-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-compat:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d2df107dc10fc7c8303dcd28fab128a3\jetified-sdk-compat-3.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:reporting:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a1981ae1fb615580b1fdc8b4e79d34ad\jetified-reporting-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:reporting:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a1981ae1fb615580b1fdc8b4e79d34ad\jetified-reporting-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:pingtool:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c1b11f2d437ec2604e618665700680ff\jetified-pingtool-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AnchorFree.hydra-vpn-android:pingtool:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c1b11f2d437ec2604e618665700680ff\jetified-pingtool-0.18.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a87a5b48bcc3bf9f94caa352285c7edf\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a87a5b48bcc3bf9f94caa352285c7edf\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d10f7748eb5c63f636af7fae13f48021\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\d10f7748eb5c63f636af7fae13f48021\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1430f90335ee297a0464fc1560f6d74a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1430f90335ee297a0464fc1560f6d74a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\b1e7dc42e36e48fec2f0f519d07acb3f\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\b1e7dc42e36e48fec2f0f519d07acb3f\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5afa9cdc4133f9a1ddb737ec6806a1e0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\5afa9cdc4133f9a1ddb737ec6806a1e0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\67184904731337762b8176666e5a8323\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\67184904731337762b8176666e5a8323\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0ae40ba6798c6bd7d60e418d7c22a28b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\0ae40ba6798c6bd7d60e418d7c22a28b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9999d81a087bc798f00020bd3bfeacfa\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9999d81a087bc798f00020bd3bfeacfa\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1f3fa90f21ffcef82ba744e046667298\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\1f3fa90f21ffcef82ba744e046667298\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8f8d322d4791e7921184d6ea8b5980c9\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8f8d322d4791e7921184d6ea8b5980c9\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9ab7c213382ebf459b80409cbbe02337\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9ab7c213382ebf459b80409cbbe02337\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7e7f2e440219fd2d02137095db068ed7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7e7f2e440219fd2d02137095db068ed7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.AnchorFreePartner:ReLinker:1.3.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c43076eae788744cb0ff669eb6951b02\jetified-ReLinker-1.3.2\AndroidManifest.xml:5:5-43
+MERGED from [com.github.AnchorFreePartner:ReLinker:1.3.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\c43076eae788744cb0ff669eb6951b02\jetified-ReLinker-1.3.2\AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\341aa7d30ba8eba6757f28d8aeb7df9b\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\341aa7d30ba8eba6757f28d8aeb7df9b\jetified-soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\687493c82a05fad234b4d1ac3393ed18\jetified-play-services-ads-20.2.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+meta-data#com.anchorfree.sdk.transports
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:12:9-14:63
+	android:resource
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:14:13-60
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:13:13-57
+meta-data#com.anchorfree.vpnsdk.vpn_config.openvpn
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:12:9-14:58
+	android:resource
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:13:13-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from [com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:26:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:27:22-78
+meta-data#com.anchorfree.vpnsdk.vpn_config.hydra
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:12:9-14:56
+	android:resource
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:13:13-66
+provider#com.anchorfree.sdk.HydraTransportInitProvider
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:16:9-20:37
+	android:authorities
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:18:13-71
+	android:exported
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:19:13-37
+	android:initOrder
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:20:13-34
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:17:13-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:12:5-76
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:11:5-76
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:11:5-76
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:12:5-76
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:14:5-79
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:11:5-79
+MERGED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:16:5-79
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:14:22-76
+provider#com.anchorfree.sdk.DBProvider
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:20:9-24:37
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8e84dbc3567333f09664653d6658f199\jetified-store-3.4.0\AndroidManifest.xml:12:9-16:37
+MERGED from [com.github.AnchorFreePartner.hydra-sdk-android:store:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\8e84dbc3567333f09664653d6658f199\jetified-store-3.4.0\AndroidManifest.xml:12:9-16:37
+	android:authorities
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:22:13-73
+	android:exported
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:23:13-37
+	android:initOrder
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:24:13-34
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:21:13-57
+meta-data#com.anchorfree.vpnsdk.vpn_config
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:26:9-28:55
+	android:resource
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:27:13-60
+provider#com.anchorfree.sdk.UnifiedSDKInitProviderMain
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:30:9-34:39
+	android:authorities
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:32:13-80
+	android:exported
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:33:13-37
+	android:initOrder
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:31:13-73
+provider#com.anchorfree.sdk.UnifiedSDKInitProviderVpn
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:35:9-40:58
+	android:process
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:40:13-55
+	android:authorities
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:37:13-84
+	android:exported
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:36:13-72
+service#com.anchorfree.vpnsdk.transporthydra.proxyservice.HydraProxyService
+ADDED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:12:9-15:19
+	android:permission
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:14:13-69
+	android:name
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:13:13-95
+service#com.anchorfree.sdk.SdkNotificationService
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:12:9-15:58
+	android:process
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:15:13-55
+	android:exported
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:13:13-69
+provider#com.anchorfree.ucr.UCRContentProvider
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:15:9-21:20
+	android:enabled
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:18:13-35
+	android:authorities
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:17:13-64
+	android:multiprocess
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:20:13-41
+	android:exported
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:16:13-65
+service#com.anchorfree.ucr.UCRService
+ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:23:9-27:19
+	android:enabled
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:25:13-35
+	android:exported
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:24:13-57
+activity#com.anchorfree.vpnsdk.vpnservice.StartVPNServiceShadowActivity
+ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:16:9-21:75
+	android:process
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:20:13-55
+	android:label
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:18:13-45
+	android:launchMode
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:19:13-44
+	android:theme
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:17:13-90
+provider#com.anchorfree.vpnsdk.vpnservice.config.VpnConfigProvider
+ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:23:9-26:40
+	android:authorities
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:25:13-62
+	android:exported
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:24:13-85
+provider#com.anchorfree.vpnsdk.vpnservice.credentials.CredentialsContentProvider
+ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:27:9-30:40
+	android:authorities
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:29:13-63
+	android:exported
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:28:13-99
+service#com.anchorfree.vpnsdk.vpnservice.AFVpnService
+ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:32:9-40:19
+	android:process
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:36:13-55
+	android:enabled
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:34:13-56
+	android:permission
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:33:13-73
+intent-filter#action:name:android.net.VpnService
+ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:37:13-39:29
+action#android.net.VpnService
+ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:38:17-65
+	android:name
+		ADDED from [com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:38:25-62
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:27:5-43:15
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:11:5-13:15
+MERGED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:11:5-13:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:30:9-36:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:31:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:31:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:33:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:35:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:35:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:39:9-41:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:40:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:40:21-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:48:9-52:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:51:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:50:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:52:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:49:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:54:9-58:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:56:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:57:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:55:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:60:9-63:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:61:13-64
+package#com.facebook.katana
+ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:12:18-52
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:19:9-23:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:22:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:23:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:20:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:25:9-28:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:27:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:26:13-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:27:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:30:9-36:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:32:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:35:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:34:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:31:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:38:9-43:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:42:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:43:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:39:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:44:9-50:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:48:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:49:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:50:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:45:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:53:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:58:9-68:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:61:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:62:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:63:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:59:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:64:13-67:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:65:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:65:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:66:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:66:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:69:9-79:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:72:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:73:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:74:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:70:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:75:13-78:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:76:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:77:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:80:9-90:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:83:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:84:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:85:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:81:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:86:13-89:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:87:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:87:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:88:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:88:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:91:9-100:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:94:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:95:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:96:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:92:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:97:13-99:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:98:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:101:9-112:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:104:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:105:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:106:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:102:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:107:13-111:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:108:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:109:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:109:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:110:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:113:9-122:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:116:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:117:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:118:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:115:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:114:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:119:13-121:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:120:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:120:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:26:13-74

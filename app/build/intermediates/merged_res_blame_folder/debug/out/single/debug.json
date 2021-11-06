@@ -1,0 +1,1606 @@
+[
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ua.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellipse_1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ellipse_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mx.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_black.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_black.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_help_black.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_help_black.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_ic_crown.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_crown.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_about_icon.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_about_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\raw_graph_movement_green.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\raw\\graph_movement_green.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_es.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_es.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_free_servers.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\fragment_free_servers.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cursor.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ic_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_next.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ro.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rate_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ch.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ellipse_yes1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ellipse_yes1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_f_0.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\f_0.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_vpn_key_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_vpn_key_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_de.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellipse_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ellipse_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_in.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ch.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellipse_2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_it.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\raw_graph_movement_blue.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\raw\\graph_movement_blue.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellipse_con1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ellipse_con1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_id.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_de.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_se.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_jp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gb.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nl.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_server_signal_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\server_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ch.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellipse_yes1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_yes1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_it.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_up_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\up_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faq.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\activity_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chevron.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\chevron.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_es.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\font_avalon_font.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\font\\avalon_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ro.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_mail_black.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_mail_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellipse_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ellipse_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_shopping_cart.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_down_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\down_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_down_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\down_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellipse_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ellipse_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\raw_loading_ring_mint_and_blue.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\raw\\loading_ring_mint_and_blue.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_chevron.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\chevron.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_help_black.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_help_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nl.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellipse_con2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_con2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ie.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_lock.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chevron.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\chevron.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cz.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_no.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gb.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_share.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vip_servers.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\fragment_vip_servers.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_f_0.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\f_0.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_down_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\down_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drawer_opener_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\drawer_opener_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_id.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lock.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ro.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_thumb_up_black.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_thumb_up_black.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_admob_native_new.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout-v21\\admob_native_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ellipse_con1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ellipse_con1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_au.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_de.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ca.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_drawer_opener_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\drawer_opener_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_down_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\down_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ru.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellipse_con2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ellipse_con2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ua.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_in.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\raw_vpn_loading.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\raw\\vpn_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_main_btn_bg2.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\main_btn_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_main_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_background.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable\\round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_it.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_select_flag_image.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\select_flag_image.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellipse_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ellipse_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mx.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_down_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\down_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ar.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mx.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_id.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ie.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_next.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_up_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\up_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_in.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_no.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_br.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cursor.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ic_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ellipse_con2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ellipse_con2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rate_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cursor.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ic_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_chevron.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\chevron.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_crown.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\up_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellipse_1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ellipse_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_hk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_au.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_about.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ch.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\font_avalon.ttf.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\font\\avalon.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_card_background2.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\card_background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_rate_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_in.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_chevron.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\chevron.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_help_black.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_help_black.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_server_signal_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\server_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_jp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_no.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_id.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_toolbar.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\app_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_au.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\font_avalonbold.ttf.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\font\\avalonbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_select_flag_image.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\select_flag_image.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_in.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mx.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ie.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drawer_opener_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\drawer_opener_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_br.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ru.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cz.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellipse_2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ellipse_2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_region_chooser.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\dialog_region_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lock.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spback.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\spback.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellipse_yes1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ellipse_yes1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellipse_con1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ellipse_con1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_next.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cursor.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ic_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ellipse_yes2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ellipse_yes2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lock.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nl.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_it.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cursor.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_up_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\up_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_spback.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\spback.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\up_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_close.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ratings.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_ratings.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellipse_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ar.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ie.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_rating_window.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\rating_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_love.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\love.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellipse_yes2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ellipse_yes2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cz.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drawer_opener_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_opener_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_de.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ro.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ratings.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ic_ratings.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellipse_2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ellipse_2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_select_flag_image.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\select_flag_image.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_connect_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\connect_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_down_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\down_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellipse_2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ellipse_2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_db.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\background_db.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\down_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ie.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ratings.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ic_ratings.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad_text_background.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable\\ad_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lock.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_f_0.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\f_0.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_up_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\up_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mx.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rate_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_es.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ru.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_jp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ro.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellipse_con1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ellipse_con1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cz.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gb.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_se.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_server_signal_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\server_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ua.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nl.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_br.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_up_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\up_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_es.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ua.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_id.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_f_0.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\f_0.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_down_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\down_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_about_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_main_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\raw_speed_test.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\raw\\speed_test.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_love_small.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\love_small.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ca.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_connect_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\connect_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ch.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_au.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rate_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\down_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellipse_1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_down_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\down_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rate_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ic_rate_us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\font-v26_avalon_font.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\font-v26\\avalon_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chevron.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\chevron.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v21_ic_vpn_key_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi-v21\\ic_vpn_key_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellipse_yes2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_yes2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ca.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_select_flag_image.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\select_flag_image.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_br.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellipse_2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ellipse_2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ru.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_f_0.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\f_0.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cz.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up_btn.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\up_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_no.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ratings.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ic_ratings.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spback.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\spback.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ar.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_au.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_se.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cursor.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_gb.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ru.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_servers.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\activity_servers.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellipse_1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ellipse_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_lock_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_select_flag_image.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\select_flag_image.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ua.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellipse_yes1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ellipse_yes1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_server_signal_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\server_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_main_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_connect_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\connect_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ellipse_1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ellipse_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_se.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hk.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_no.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellipse_yes2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ellipse_yes2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ratings.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ic_ratings.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gb.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellipse_yes1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ellipse_yes1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ca.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_server_signal_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\server_signal_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_br.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_in.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ua.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spback.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\spback.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ar.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_connect_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\connect_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ellipse_con1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ellipse_con1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ch.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_up_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\up_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ellipse_2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ellipse_2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_select_flag_image.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\select_flag_image.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ar.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_us.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellipse_con2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ellipse_con2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_se.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in_out.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\anim\\zoom_in_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v21_ic_help_black.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi-v21\\ic_help_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\up_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ellipse_3.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ellipse_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spback.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\spback.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_thumb_up_black.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_thumb_up_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_f_0.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\f_0.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_au.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_up_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\up_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_it.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_up_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\up_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_settings_black.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_settings_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tr.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lock.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ellipse_yes2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ellipse_yes2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellipse_con2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ellipse_con2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_id.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\down_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ca.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_de.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ratings.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ratings.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_connect_bt.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\connect_bt.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ar.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mail_black.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_mail_black.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_se.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\layout_region_list_item.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\layout\\region_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ca.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ie.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mx.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_spback.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\spback.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cz.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellipse_con1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ellipse_con1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_br.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ru.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellipse_con2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ellipse_con2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_nl.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nl.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_it.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_de.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_es.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-ldpi\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-mdpi\\splash_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ellipse_yes2.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-hdpi\\ellipse_yes2.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ellipse_1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ellipse_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ellipse_yes1.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxxhdpi\\ellipse_yes1.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ro.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xxhdpi\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gb.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\drawable-xhdpi\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\Air vpn source code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]

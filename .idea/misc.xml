@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/drawable-mdpi/background_db.xml" value="0.2203125" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/drawable-mdpi/card_background2.xml" value="0.2203125" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/drawable/ad_text_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/drawable/card_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/drawable/ic_about_icon.xml" value="0.2203125" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout-v21/admob_native_new.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/activity_faq.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/activity_servers.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/app_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/dialog_region_chooser.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/fragment_free_servers.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/fragment_vip_servers.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/navigation_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/layout/rating_window.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/wycliffe/AndroidStudioProjects/Air vpn source code/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

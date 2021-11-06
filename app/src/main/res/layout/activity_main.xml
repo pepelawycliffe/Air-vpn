@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context="com.softmaster.airvpn.activity.MainActivity">
+
+    <RelativeLayout
+        android:background="#00FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/drawer_opener"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="15dp"
+            android:src="@drawable/ic_menu"
+            android:layout_alignParentStart="true"
+            android:contentDescription="@string/todo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textStyle="bold"
+            android:layout_centerInParent="true"
+            android:textColor="@color/color_white"
+            android:textSize="22sp"
+            android:fontFamily="@font/avalon"
+            tools:ignore="RelativeOverlap" />
+
+        <ImageView
+            android:contentDescription="@string/todo"
+            android:id="@+id/rate_win"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="15dp"
+            android:src="@drawable/ic_rate_us"
+            android:visibility="visible"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_marginTop="18dp"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:background="#00FFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                tools:ignore="UselessParent">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+
+                    <androidx.appcompat.widget.Toolbar
+                        android:id="@+id/main_toolbar"
+                        android:layout_width="match_parent"
+                        android:layout_height="?attr/actionBarSize"
+                        android:background="?attr/colorPrimary"
+                        android:theme="@style/ToolbarTheme"
+                        android:visibility="gone" />
+
+
+
+
+                    <LinearLayout
+                        android:layout_marginTop="@dimen/_12dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_horizontal"
+                        android:layout_marginLeft="35dp"
+                        android:layout_marginRight="35dp"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:layout_marginTop="@dimen/_6dp"
+                            android:id="@+id/vpn_connection_time_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/connection_time"
+                            android:textColor="@color/color_white"
+                            android:textSize="12sp"
+                            />
+
+                        <RelativeLayout
+                            android:id="@+id/first_elipse"
+                            android:background="@drawable/ellipse_3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <pl.bclogic.pulsator4droid.library.PulsatorLayout
+                                android:layout_centerInParent="true"
+                                android:id="@+id/pulsator"
+                                android:layout_width="250dp"
+                                android:layout_height="250dp"
+                                app:pulse_color="@color/color_btn"
+                                app:pulse_count="5"
+                                app:pulse_duration="1500"
+                                app:pulse_interpolator="Accelerate"
+                                app:pulse_repeat="0"
+                                app:pulse_startFromScratch="false" />
+
+
+                            <TextView
+                                android:id="@+id/tv_timer"
+                                android:layout_centerHorizontal="true"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/_00_00_00"
+                                android:fontFamily="@font/avalon_font"
+                                android:textColor="@color/color_white"
+                                android:textSize="20sp"/>
+
+
+
+
+
+                            <RelativeLayout
+                                android:id="@+id/second_elipse"
+                                android:layout_centerInParent="true"
+                                android:background="@drawable/ellipse_2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"/>
+
+                            <RelativeLayout
+                                android:background="@drawable/ellipse_1"
+                                android:layout_centerInParent="true"
+                                android:id="@+id/connection_btn_block"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <ImageView
+                                    android:contentDescription="@string/todo"
+                                    android:layout_centerInParent="true"
+                                    android:id="@+id/connect_btn"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:adjustViewBounds="true"
+                                    android:maxWidth="@dimen/_240dp"
+                                    android:padding="@dimen/_8dp"
+                                    android:src="@drawable/main_icon" />
+
+
+                            </RelativeLayout>
+
+
+                            <TextView
+                                android:fontFamily="@font/avalonbold"
+                                android:textColor="@color/white"
+                               android:layout_marginTop="280dp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/status"
+                                android:textSize="13sp" />
+
+
+                        </RelativeLayout>
+
+                        <TextView
+                            android:layout_marginTop="3dp"
+                            android:id="@+id/vpn_connection_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/disconnected"
+                            android:textColor="@color/yellow_color"
+                            android:textSize="16sp"
+                            android:layout_marginBottom="@dimen/_8dp" />
+
+                        <LinearLayout
+                            android:layout_marginTop="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:gravity="center"
+                            android:layout_marginBottom="@dimen/vertical"
+                            android:paddingLeft="@dimen/_24dp"
+                            android:paddingRight="@dimen/_24dp">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"/>
+
+                            <ImageView
+                                android:contentDescription="@string/todo"
+                                android:layout_width="24dp"
+                                android:layout_height="24dp"
+                                android:src="@drawable/down_btn" />
+                            <TextView
+                                android:id="@+id/downloading_speed"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:text="@string/_0_mbps"
+                                android:textColor="@color/color_white"
+                                android:textSize="16sp"
+                                android:gravity="center"
+                                android:layout_gravity="center"
+                                android:layout_weight="1"
+                                android:fontFamily="@font/avalon_font"/>
+                            <View
+                                android:layout_width="1dp"
+                                android:layout_height="match_parent"
+                                android:src="@drawable/lock"
+                                android:background="@color/color_gray"
+                                />
+                            <TextView
+                                android:id="@+id/uploading_speed"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:text="@string/_0_mbps"
+                                android:layout_weight="1"
+                                android:textColor="@color/color_white"
+                                android:textSize="16sp"
+                                android:gravity="center"
+                                android:layout_gravity="center"
+                                android:fontFamily="@font/avalon_font" />
+                            <ImageView
+                                android:contentDescription="@string/todo"
+                                android:layout_width="24dp"
+                                android:layout_height="24dp"
+                                android:src="@drawable/up_btn" />
+
+
+
+                        </LinearLayout>
+
+
+                        <RelativeLayout
+                            android:layout_marginTop="@dimen/_24dp"
+                            android:id="@+id/vpn_select_country"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="@dimen/vertical"
+                            android:paddingLeft="@dimen/_8dp"
+                            android:paddingRight="@dimen/_8dp"
+                            android:padding="@dimen/_16dp"
+                            android:background="@drawable/round_background">
+                            <!--  <ImageView
+                                  android:id="@+id/imageView7"
+                                  android:layout_width="wrap_content"
+                                  android:layout_height="wrap_content"
+                                  android:src="@drawable/board"
+                                  />-->
+
+                            <ImageView
+                                android:contentDescription="@string/todo"
+                                android:id="@+id/vpn_country_image"
+                                android:layout_width="wrap_content"
+                                android:adjustViewBounds="true"
+                                android:maxWidth="@dimen/_24dp"
+                                android:maxHeight="@dimen/_24dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:gravity="center_vertical"
+                                android:src="@drawable/f_0"
+                                android:layout_centerVertical="true"
+                                android:layout_alignParentLeft="true"
+                                android:layout_alignParentStart="true" />
+
+                            <TextView
+                                android:id="@+id/vpn_country_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true"
+                                android:layout_toStartOf="@+id/imageView8"
+                                android:layout_toLeftOf="@+id/imageView8"
+                                android:layout_toEndOf="@+id/vpn_country_image"
+                                android:layout_toRightOf="@+id/vpn_country_image"
+                                android:ellipsize="end"
+                                android:maxLines="1"
+                                android:paddingLeft="16dp"
+                                android:paddingRight="16dp"
+                                android:text="@string/optimal_server"
+                                android:fontFamily="@font/avalon_font"
+                                android:textColor="@color/color_white"
+                                android:textSize="16sp" />
+
+                            <ImageView
+                                android:contentDescription="@string/todo"
+                                android:id="@+id/imageView8"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/ic_next"
+                                android:layout_centerVertical="true"
+                                android:layout_alignParentEnd="true"
+                                android:layout_alignParentRight="true"/>
+                        </RelativeLayout>
+
+
+                        <LinearLayout
+                           android:orientation="vertical"
+                            android:layout_marginBottom="@dimen/_16dp"
+                            android:layout_marginTop="@dimen/_24dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <LinearLayout
+                                android:id="@+id/go_pro"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/main_btn_bg2"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:contentDescription="@string/todo"
+                                    android:layout_marginBottom="10dp"
+                                    android:layout_marginTop="10dp"
+                                    android:layout_width="wrap_content"
+                                    android:adjustViewBounds="true"
+                                    android:maxWidth="@dimen/_36dp"
+                                    android:maxHeight="@dimen/_36dp"
+                                    android:layout_marginLeft="@dimen/_16dp"
+                                    android:layout_marginRight="@dimen/_16dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_vertical"
+                                    android:gravity="center_vertical"
+                                    android:src="@drawable/ic_crown" />
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical"
+                                    android:gravity="center_vertical"
+                                    android:layout_gravity="center_vertical">
+                                    <TextView
+                                        android:id="@+id/subcription_tv"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:text="@string/go_premium"
+                                        android:textColor="@color/color_white"
+                                        android:textSize="16sp"
+                                        android:fontFamily="@font/avalon_font"
+                                        tools:ignore="TooDeepLayout" />
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:adjustViewBounds="true"
+                                        android:text="@string/go_pro_to_unlock_all_features"
+                                        android:textColor="@color/color_white"
+                                        android:textSize="12sp"
+                                        android:fontFamily="@font/avalon_font"
+                                        />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <LinearLayout
+
+                                android:orientation="vertical"
+                                android:layout_marginTop="@dimen/_12dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                    <FrameLayout
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"
+                                        android:id="@+id/fl_adplaceholder"/>
+
+
+                            </LinearLayout>
+
+
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:id="@+id/admob_rl"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

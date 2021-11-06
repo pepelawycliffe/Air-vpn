@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnchorFreePartner:ReLinker:1.3.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c43076eae788744cb0ff669eb6951b02/jetified-ReLinker-1.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c43076eae788744cb0ff669eb6951b02/jetified-ReLinker-1.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c43076eae788744cb0ff669eb6951b02/jetified-ReLinker-1.3.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnchorFreePartner/ReLinker/1.3.2/17d5aa8e7028e9cdc0e479e7dab1e41d43f332ee/ReLinker-1.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnchorFreePartner/ReLinker/1.3.2/be47ee22195752a9bac6db5f8fcbeb31c782abab/ReLinker-1.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

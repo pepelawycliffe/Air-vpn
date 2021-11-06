@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_upgrade"
+            android:icon="@drawable/ic_vpn_key_black_24dp"
+            android:title="@string/country_selection" />
+
+        <item
+            android:id="@+id/nav_unlock"
+            android:icon="@drawable/ic_shopping_cart"
+            android:title="@string/purchases"
+            />
+
+        <item
+            android:id="@+id/nav_helpus"
+            android:icon="@drawable/ic_mail_black"
+            android:title="@string/help" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_thumb_up_black"
+            android:title="@string/rate" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/share" />
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_help_black"
+            android:title="@string/faq" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about_icon"
+            android:title="@string/about" />
+
+        <item
+            android:id="@+id/nav_policy"
+            android:icon="@drawable/ic_lock_black_24dp"
+            android:title="@string/privacy_policy" />
+
+
+    </group>
+
+</menu>

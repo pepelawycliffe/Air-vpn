@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pepperonas:materialdialog:0.3.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ad4c40f854a555c7d80666908e1bf31/jetified-materialdialog-0.3.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ad4c40f854a555c7d80666908e1bf31/jetified-materialdialog-0.3.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ad4c40f854a555c7d80666908e1bf31/jetified-materialdialog-0.3.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pepperonas/materialdialog/0.3.4/41f22ddc4b0eecb6ccac01c20f59afaf16393d37/materialdialog-0.3.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pepperonas/materialdialog/0.3.4/51156bfe68d45a952f906b1db8ca8809213a21ae/materialdialog-0.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

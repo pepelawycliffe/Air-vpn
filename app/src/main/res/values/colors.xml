@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black_overlay">#707070</color>
+
+    <color name="colorPrimaryDark">#1b2036</color>
+
+
+    <color name="colorPrimary">#011A39</color>
+    <color name="btn_border">#1D5BFA</color>
+
+    <color name="my_statusbar_color">#111422</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_gray">#6d6f7e</color>
+
+    <color name="connection_text">#4378FF</color>
+
+    <color name="color_btn">#1D5BFA</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <item name="primary" type="color">#1D5BFA</item>
+    <item name="primary_dark" type="color">#111422</item>
+
+    <item name="light_blue" type="color">#D3D0D0</item>
+
+
+    <item name="text_color" type="color">#D3D0D0</item>
+    <item name="white_color" type="color">#fff</item>
+
+
+
+    <item name="ad_yellow_color" type="color">#FFCE17</item>
+    <item name="yellow_color" type="color">#FFEB3B</item>
+
+
+    <color name="gnt_white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="gnt_green">#00FF00</color>
+    <color name="gnt_blue">#4285f4</color>
+    <color name="gnt_ad_green">#3A6728</color>
+    <color name="gnt_gray">#808080</color>
+    <color name="gnt_outline">#E0E0E0</color>
+    <color name="gnt_test_background_color">#00F4F4F4</color>
+
+</resources>

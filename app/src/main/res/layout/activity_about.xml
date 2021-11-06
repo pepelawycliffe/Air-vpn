@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:background="@color/colorPrimaryDark"
+    tools:context="com.softmaster.airvpn.activity.About">
+
+     <include layout="@layout/app_toolbar"/>
+
+     <LinearLayout
+         android:background="@drawable/card_background"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="10dp"
+         android:layout_marginTop="70dp"
+         android:layout_marginLeft="15dp"
+         android:layout_marginRight="15dp">
+
+             <TextView
+                 android:id="@+id/editText"
+                 android:textSize="18sp"
+                 android:textColor="@color/text_color"
+                 android:layout_margin="15dp"
+                 android:layout_gravity="center"
+                 android:text="@string/Aboutus_page_Text"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content" />
+
+         </LinearLayout>
+
+
+
+ </RelativeLayout>
+

@@ -1,0 +1,94 @@
+<resources>
+    <!--change App Name-->
+    <string name="app_name">Air Vpn</string>
+
+
+   <string name="privacy_policy_link">Your_Privacy_Policy_Link</string>
+   <string name="developer_email">wycliffepepela01@gmail.com</string>
+    <string name="app_version">1.0v</string>
+
+
+ <!--google admob keys-->
+    <string name="admob_app_id">ca-app-pub-8666683115109154~8866712098</string>
+    <string name="admob_rewarded_video_ads">ca-app-pub-8666683115109154/6757006775</string>
+    <string name="admob_native_advance">ca-app-pub-8666683115109154/4040695164</string>
+    <string name="admob_interstitial">ca-app-pub-8666683115109154/4434095768</string>
+    <string name="admob_banner_id">ca-app-pub-8666683115109154/4047082955</string>
+    <!--END google admob keys-->
+
+    <string name="rating_dialog">Do you like Air VPN?</string>
+   <string name="connected">Connected</string>
+   <string name="disconnected">Disconnected</string>
+
+
+ <!--Drawer opener and closer    -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--Drawer opener and closer    -->
+
+    <string name="help_to_improve_us_email_subject">Suggestions &amp; Comments</string>
+    <string name="help_to_improve_us_body">Please write down your comments below this line.</string>
+    <!--Help to improve us-->
+
+
+    <!--FAQ QUESTION DETAILS -->
+    <!--QUESTIONS-->
+    <string name="question1">1. How to use AirVPN?</string>
+    <string name="question2">2. How long can I use AirVPN for each connection?</string>
+    <string name="question3">3. Why "can't" I use internet after connection established?</string>
+    <string name="question4">4. How to disable battery optimization for AirVPN?</string>
+    <string name="question5">5. What is Smart Proxy?</string>
+    <string name="question6">6. When I try to connect, Android system request a permission, but I can not accept it, why?</string>
+
+    <!--ANSWERS-->
+    <string name="question1_answer">Click connect button in the main screen to use AirVPN. If Android system show a dialog to request a connection permission, click OK or Accept to continue.</string>
+    <string name="question2_answer">As long as you can. We don/t set time or traffic limition on each connection</string>
+    <string name="question3_answer">Fist of all, check your network connection. Then make sure "you've" disabled battery optimization for AirVPN in "Android's" battery setting (which means enable background activity for AirVPN). If you enable Smart Proxy, you also need to make sure all the apps you need to proxy is checked in Smart Proxy setting.</string>
+    <string name="question5_answer">On Android 5.0 or above, you can only enable some of the apps to use AirVPN to proxy traffic, and all the other apps use local network. For example, if Facebook and Skype are blocked in your country, make them checked in Smart Proxy. After the VPN connection is established, only Facebook and "Skype's" traffic go through VPN, and all your other apps will perform as good as usual.</string>
+    <string name="question6_answer">You may be running some app which changes the screen color or opens a floating window. "Android's" security system prevent VPN to be running under these cases. You need close this kind of app temporarily to continue.</string>
+    <!--END FAQ QUESTION DETAILS-->
+
+    <!--    About us text details-->
+    <string name="Aboutus_page_Text">AirVPN and Security unblock Proxy is world best supervpn app its Super Secure VPN Unlimited Proxy Server for lifetime free access. Unlock any websites save your device
+    Secure VPN is the most trusted security, privacy and access platform with top performance on speed, stability and security to unblock sites, unblock any apps or websites, access social networks, watch videos and movies, protect Wi-Fi hotspot security and protect privacy</string>
+	
+	
+    <!--Drawer buttons text-->
+
+
+    <string name="purchases">Get Premium</string>
+    <string name="share">Tell your friend</string>
+    <string name="rate">Rate Us</string>
+    <string name="about">About</string>
+    <string name="help">Help us to improve</string>
+    <string name="faq">FAQ</string>
+    <string name="country_selection">Select Country</string>
+ <string name="status">STATUS :</string>
+    <string name="loading">Connecting</string>
+    <string name="todo">TODO</string>
+    <string name="default_region">DEFAULT REGION</string>
+    <string name="In_most_Android"><![CDATA[In most Android devices, open Android\'s Setting-->Battery-->Battery optimization, select All apps in the dropdown menu, find SuperVPN and set it to Don\'t optimize. In HuaWei devices, open Android\'s Setting-->Battery-->Launch, find SuperVPN in the app list, switch off to Manage manually, enable Auto-launch and Run in background.\n Or you can find battery setting in Protected Apps.\n In Samsung devices, open Android\'s Setting-->Battery-->App Power Saving-->Details, find SuperVPN in the app list and disabled it.\n In other devices, you may find it in Setting-->Battery as Background activity or Protected apps.]]></string>
+    <string name="connection_time">Connection Time</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="_0_mbps">0 mbps</string>
+    <string name="optimal_server">Optimal Server</string>
+    <string name="go_premium">UNLOCK VIP SERVERS</string>
+    <string name="go_pro_to_unlock_all_features">Watch Rewarded Video</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="ad">Ad</string>
+    <string name="select_country">Select Country</string>
+    <string name="we_need_your_support">We need your support!</string>
+    <string name="rate_us_5_stars">Rate us 5 stars</string>
+    <string name="remind_me_later">REMIND ME LATER</string>
+    <string name="Unknown_Server">Unknown Server</string>
+    <string name="Servers">Servers</string>
+
+    <!--user's personalization-->
+ <bool name="ads_flag">true</bool>
+
+
+    <!--END Drawer buttons text-->
+
+
+
+</resources>

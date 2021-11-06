@@ -1,0 +1,24 @@
+Android app features
+
+• Kill switch: Network protection stops all internet traffic if the VPN can’t connect so your data will never be leaked online without you knowing.
+• Supports system kill switch on Android 8 and higher
+• Auto-connects when you join or rejoin an untrusted Wi-Fi network
+• Auto-reconnects if your VPN connection is interrupted
+• Military grade Encryption
+• Works with Wi-Fi, LTE/4G, 3G, and all mobile data carriers
+
+
+Why Choose Air VPN
+
+✔️Free to Download.
+
+✔️Your content, when and where you want it – Stream or download anything, from any of our servers, anywhere.
+
+✔️Open the internet – no more blocks on what you can access depending where you are. Not just streams but games, websites and social media platforms.
+
+✔️Safe and anonymous – world-class encryption and a range of VPN protocols protect you from people who want to profit from your data or find out who you are.
+
+✔️No Log Policy – No activity logs, no connection logs. A truly private VPN provider which cares about your pocket too.
+
+✔️24/7 customer services – Ask us anything through live chat support or email. We have support nerds who love to chat.
+

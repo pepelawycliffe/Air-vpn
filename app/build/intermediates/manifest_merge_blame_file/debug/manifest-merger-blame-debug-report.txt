@@ -1,0 +1,524 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.softmaster.airvpn"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:7:5-77
+12-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:7:22-74
+13    <uses-permission android:name="com.android.vending.BILLING" />
+13-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:8:5-67
+13-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->[com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:26:5-80
+14-->[com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:26:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->[com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:27:5-81
+15-->[com.github.pepperonas:materialdialog:0.3.4] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7ad4c40f854a555c7d80666908e1bf31\jetified-materialdialog-0.3.4\AndroidManifest.xml:27:22-78
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:12:5-76
+16-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:12:22-73
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Android package visibility setting -->
+17-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:14:5-79
+17-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:14:22-76
+18    <queries>
+18-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:27:5-43:15
+19
+20        <!-- For browser content -->
+21        <intent>
+21-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:30:9-36:18
+22            <action android:name="android.intent.action.VIEW" />
+22-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:31:13-65
+22-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:31:21-62
+23
+24            <category android:name="android.intent.category.BROWSABLE" />
+24-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:33:13-74
+24-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:33:23-71
+25
+26            <data android:scheme="https" />
+26-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:35:13-44
+26-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:35:19-41
+27        </intent>
+28        <!-- End of browser content -->
+29        <!-- For CustomTabsService -->
+30        <intent>
+30-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:39:9-41:18
+31            <action android:name="android.support.customtabs.action.CustomTabsService" />
+31-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:40:13-90
+31-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:40:21-87
+32        </intent>
+33        <!-- End of CustomTabsService -->
+34        <package android:name="com.facebook.katana" />
+34-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:12:9-55
+34-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:12:18-52
+35    </queries>
+36
+37    <uses-permission android:name="android.permission.WAKE_LOCK" />
+37-->[com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:25:5-68
+37-->[com.google.android.gms:play-services-measurement-sdk-api:18.0.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\3f2c269527dd89aa95742e2c42e42a33\jetified-play-services-measurement-sdk-api-18.0.0\AndroidManifest.xml:25:22-65
+38    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+38-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:27:5-81
+38-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:27:22-78
+39
+40    <application
+40-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:10:5-42:19
+41        android:name="com.softmaster.airvpn.MainApplication"
+41-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:11:9-61
+42        android:allowBackup="true"
+42-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:12:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.5.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\9493e1e081704e9f811c1cfcf1f1fe10\core-1.5.0\AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:icon="@mipmap/ic_launcher"
+45-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:13:9-43
+46        android:label="@string/app_name"
+46-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:14:9-41
+47        android:networkSecurityConfig="@xml/sdk_captive_portal_network_security"
+47-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:18:9-81
+48        android:roundIcon="@mipmap/ic_launcher_round"
+48-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:15:9-54
+49        android:supportsRtl="true"
+49-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:16:9-35
+50        android:theme="@style/AppTheme" >
+50-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:17:9-40
+51        <activity
+51-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:21:9-29:20
+52            android:name="com.softmaster.airvpn.activity.SplashActivity"
+52-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:22:13-73
+53            android:theme="@style/splashTheme" >
+53-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:23:13-47
+54            <intent-filter>
+54-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:24:13-28:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:25:17-69
+55-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:25:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:27:17-77
+57-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:27:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity android:name="com.softmaster.airvpn.activity.About" />
+60-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:30:9-73
+60-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:30:19-70
+61        <activity android:name="com.softmaster.airvpn.activity.Faq" /> <!-- google ads -->
+61-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:31:9-71
+61-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:31:19-68
+62        <meta-data
+62-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:32:9-34:52
+63            android:name="com.google.android.gms.ads.APPLICATION_ID"
+63-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:33:13-69
+64            android:value="@string/admob_app_id" />
+64-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:34:13-49
+65        <meta-data
+65-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:35:9-37:36
+66            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+66-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:36:13-69
+67            android:value="true" />
+67-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:37:13-33
+68
+69        <activity
+69-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:39:9-41:15
+70            android:name="com.softmaster.airvpn.activity.MainActivity"
+70-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:39:19-77
+71            android:launchMode="singleTask" />
+71-->C:\Users\wycliffe\AndroidStudioProjects\Air vpn source code\app\src\main\AndroidManifest.xml:40:13-44
+72
+73        <meta-data
+73-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:12:9-14:63
+74            android:name="com.anchorfree.sdk.transports"
+74-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:13:13-57
+75            android:resource="@raw/hydra_transports_config" />
+75-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\dc7d782d4770dcd63ca42a1db3bd8a8b\jetified-sdk-3.4.0\AndroidManifest.xml:14:13-60
+76        <meta-data
+76-->[com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:12:9-14:58
+77            android:name="com.anchorfree.vpnsdk.vpn_config.openvpn"
+77-->[com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:13:13-68
+78            android:resource="@raw/openvpn_vpn_config" />
+78-->[com.github.AnchorFreePartner.hydra-sdk-android:openvpn:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\ade2d38f4f3b8cc796bc7b69474f0cb7\jetified-openvpn-3.4.0\AndroidManifest.xml:14:13-55
+79        <meta-data
+79-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:12:9-14:56
+80            android:name="com.anchorfree.vpnsdk.vpn_config.hydra"
+80-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:13:13-66
+81            android:resource="@raw/hydra_vpn_config" />
+81-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:14:13-53
+82
+83        <provider
+83-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:16:9-20:37
+84            android:name="com.anchorfree.sdk.HydraTransportInitProvider"
+84-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:17:13-73
+85            android:authorities="com.softmaster.airvpn.sdk.transport.hydra"
+85-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:18:13-71
+86            android:exported="false"
+86-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:19:13-37
+87            android:initOrder="1" />
+87-->[com.github.AnchorFreePartner.hydra-sdk-android:hydra:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\36c29e495985e7de5c40c36498eba760\jetified-hydra-3.4.0\AndroidManifest.xml:20:13-34
+88        <provider
+88-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:20:9-24:37
+89            android:name="com.anchorfree.sdk.DBProvider"
+89-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:21:13-57
+90            android:authorities="com.softmaster.airvpn.hydra.sdk.db.provider"
+90-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:22:13-73
+91            android:exported="false"
+91-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:23:13-37
+92            android:initOrder="1" />
+92-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:24:13-34
+93
+94        <meta-data
+94-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:26:9-28:55
+95            android:name="com.anchorfree.vpnsdk.vpn_config"
+95-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:27:13-60
+96            android:resource="@raw/core_vpn_config" />
+96-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:28:13-52
+97
+98        <provider
+98-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:30:9-34:39
+99            android:name="com.anchorfree.sdk.UnifiedSDKInitProviderMain"
+99-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:31:13-73
+100            android:authorities="com.softmaster.airvpn.anchorfree.sdk.init.provider"
+100-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:32:13-80
+101            android:exported="false"
+101-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:33:13-37
+102            android:initOrder="100" />
+102-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:34:13-36
+103        <provider
+103-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:35:9-40:58
+104            android:name="com.anchorfree.sdk.UnifiedSDKInitProviderVpn"
+104-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:36:13-72
+105            android:authorities="com.softmaster.airvpn.anchorfree.sdk.init.provider.vpn"
+105-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:37:13-84
+106            android:exported="false"
+106-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:38:13-37
+107            android:initOrder="100"
+107-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:39:13-36
+108            android:process="@string/vpn_process_name" />
+108-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-core:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\7fccbeec037c6b2868244061ba93e10e\jetified-sdk-core-3.4.0\AndroidManifest.xml:40:13-55
+109
+110        <service
+110-->[com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:12:9-15:19
+111            android:name="com.anchorfree.vpnsdk.transporthydra.proxyservice.HydraProxyService"
+111-->[com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:13:13-95
+112            android:permission="android.permission.BIND_VPN_SERVICE" >
+112-->[com.github.AnchorFree.hydra-vpn-android:hydratransport:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\a01e860676e7899058a91d6e17535a27\jetified-hydratransport-0.18.2\AndroidManifest.xml:14:13-69
+113        </service>
+114        <service
+114-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:12:9-15:58
+115            android:name="com.anchorfree.sdk.SdkNotificationService"
+115-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:13:13-69
+116            android:exported="false"
+116-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:14:13-37
+117            android:process="@string/vpn_process_name" />
+117-->[com.github.AnchorFreePartner.hydra-sdk-android:sdk-notifications:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f8a0706d009263b8aa1e8351e2893eec\jetified-sdk-notifications-3.4.0\AndroidManifest.xml:15:13-55
+118
+119        <provider
+119-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:15:9-21:20
+120            android:name="com.anchorfree.ucr.UCRContentProvider"
+120-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:16:13-65
+121            android:authorities="com.softmaster.airvpn.ucr.provider"
+121-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:17:13-64
+122            android:enabled="true"
+122-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:18:13-35
+123            android:exported="false"
+123-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:19:13-37
+124            android:multiprocess="false" >
+124-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:20:13-41
+125        </provider>
+126
+127        <service
+127-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:23:9-27:19
+128            android:name="com.anchorfree.ucr.UCRService"
+128-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:24:13-57
+129            android:enabled="true"
+129-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:25:13-35
+130            android:exported="false" >
+130-->[com.github.AnchorFreePartner.hydra-sdk-android:ucr-analytics:3.4.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\63d7902fdb80c3bd9b433a69ec2f974d\jetified-ucr-analytics-3.4.0\AndroidManifest.xml:26:13-37
+131        </service>
+132
+133        <activity
+133-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:16:9-21:75
+134            android:name="com.anchorfree.vpnsdk.vpnservice.StartVPNServiceShadowActivity"
+134-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:17:13-90
+135            android:label="@string/app_name"
+135-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:18:13-45
+136            android:launchMode="singleTask"
+136-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:19:13-44
+137            android:process="@string/vpn_process_name"
+137-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:20:13-55
+138            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+138-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:21:13-72
+139
+140        <provider
+140-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:23:9-26:40
+141            android:name="com.anchorfree.vpnsdk.vpnservice.config.VpnConfigProvider"
+141-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:24:13-85
+142            android:authorities="com.softmaster.airvpn.vpn_config"
+142-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:25:13-62
+143            android:exported="false" />
+143-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:26:13-37
+144        <provider
+144-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:27:9-30:40
+145            android:name="com.anchorfree.vpnsdk.vpnservice.credentials.CredentialsContentProvider"
+145-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:28:13-99
+146            android:authorities="com.softmaster.airvpn.credentials"
+146-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:29:13-63
+147            android:exported="false" />
+147-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:30:13-37
+148
+149        <service
+149-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:32:9-40:19
+150            android:name="com.anchorfree.vpnsdk.vpnservice.AFVpnService"
+150-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:33:13-73
+151            android:enabled="@bool/vpn_process_enabled"
+151-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:34:13-56
+152            android:permission="android.permission.BIND_VPN_SERVICE"
+152-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:35:13-69
+153            android:process="@string/vpn_process_name" >
+153-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:36:13-55
+154            <intent-filter>
+154-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:37:13-39:29
+155                <action android:name="android.net.VpnService" />
+155-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:38:17-65
+155-->[com.github.AnchorFree.hydra-vpn-android:corevpn:0.18.2] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6007580ea9557a6db8b31b629532db4e\jetified-corevpn-0.18.2\AndroidManifest.xml:38:25-62
+156            </intent-filter>
+157        </service> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+158        <activity
+158-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:48:9-52:64
+159            android:name="com.google.android.gms.ads.AdActivity"
+159-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:49:13-65
+160            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+160-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:50:13-122
+161            android:exported="false"
+161-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:51:13-37
+162            android:theme="@android:style/Theme.Translucent" />
+162-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:52:13-61
+163
+164        <provider
+164-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:54:9-58:39
+165            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+165-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:55:13-76
+166            android:authorities="com.softmaster.airvpn.mobileadsinitprovider"
+166-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:56:13-73
+167            android:exported="false"
+167-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:57:13-37
+168            android:initOrder="100" />
+168-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:58:13-36
+169
+170        <service
+170-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:60:9-63:40
+171            android:name="com.google.android.gms.ads.AdService"
+171-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:61:13-64
+172            android:enabled="true"
+172-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:62:13-35
+173            android:exported="false" />
+173-->[com.google.android.gms:play-services-ads-lite:20.2.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\6a9cc01ca0e62f5103ea24eb247a5777\jetified-play-services-ads-lite-20.2.0\AndroidManifest.xml:63:13-37
+174
+175        <activity
+175-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:19:9-23:75
+176            android:name="com.facebook.ads.AudienceNetworkActivity"
+176-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:20:13-68
+177            android:configChanges="keyboardHidden|orientation|screenSize"
+177-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:21:13-74
+178            android:exported="false"
+178-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:22:13-37
+179            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+179-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:23:13-72
+180
+181        <provider
+181-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:25:9-28:40
+182            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+182-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:26:13-75
+183            android:authorities="com.softmaster.airvpn.AudienceNetworkContentProvider"
+183-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:27:13-82
+184            android:exported="false" />
+184-->[com.facebook.android:audience-network-sdk:6.5.1] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\04eefb781d7c93d46bba8c0bf1a696f0\jetified-audience-network-sdk-6.5.1\AndroidManifest.xml:28:13-37
+185
+186        <meta-data
+186-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+187            android:name="com.google.android.gms.version"
+187-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
+188            android:value="@integer/google_play_services_version" />
+188-->[com.google.android.gms:play-services-basement:17.6.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\f3df690905d29d666efd3bc1aec7fe54\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+189
+190        <provider
+190-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:30:9-36:35
+191            android:name="androidx.work.impl.WorkManagerInitializer"
+191-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:31:13-69
+192            android:authorities="com.softmaster.airvpn.workmanager-init"
+192-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:32:13-68
+193            android:directBootAware="false"
+193-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:33:13-44
+194            android:exported="false"
+194-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:34:13-37
+195            android:multiprocess="true" />
+195-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:35:13-40
+196
+197        <service
+197-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:38:9-43:35
+198            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+198-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:39:13-88
+199            android:directBootAware="false"
+199-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:40:13-44
+200            android:enabled="@bool/enable_system_alarm_service_default"
+200-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:41:13-72
+201            android:exported="false" />
+201-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:42:13-37
+202        <service
+202-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:44:9-50:35
+203            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+203-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:45:13-84
+204            android:directBootAware="false"
+204-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:46:13-44
+205            android:enabled="@bool/enable_system_job_service_default"
+205-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:47:13-70
+206            android:exported="true"
+206-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:48:13-36
+207            android:permission="android.permission.BIND_JOB_SERVICE" />
+207-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:49:13-69
+208
+209        <receiver
+209-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:52:9-57:35
+210            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+210-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:53:13-88
+211            android:directBootAware="false"
+211-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:54:13-44
+212            android:enabled="true"
+212-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:55:13-35
+213            android:exported="false" />
+213-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:56:13-37
+214        <receiver
+214-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:58:9-68:20
+215            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+215-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:59:13-106
+216            android:directBootAware="false"
+216-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:60:13-44
+217            android:enabled="false"
+217-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:61:13-36
+218            android:exported="false" >
+218-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:62:13-37
+219            <intent-filter>
+219-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:64:13-67:29
+220                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+220-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:65:17-87
+220-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:65:25-84
+221                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+221-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:66:17-90
+221-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:66:25-87
+222            </intent-filter>
+223        </receiver>
+224        <receiver
+224-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:69:9-79:20
+225            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+225-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:70:13-104
+226            android:directBootAware="false"
+226-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:71:13-44
+227            android:enabled="false"
+227-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:72:13-36
+228            android:exported="false" >
+228-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:73:13-37
+229            <intent-filter>
+229-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:75:13-78:29
+230                <action android:name="android.intent.action.BATTERY_OKAY" />
+230-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:76:17-77
+230-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:76:25-74
+231                <action android:name="android.intent.action.BATTERY_LOW" />
+231-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:77:17-76
+231-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:77:25-73
+232            </intent-filter>
+233        </receiver>
+234        <receiver
+234-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:80:9-90:20
+235            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+235-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:81:13-104
+236            android:directBootAware="false"
+236-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:82:13-44
+237            android:enabled="false"
+237-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:83:13-36
+238            android:exported="false" >
+238-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:84:13-37
+239            <intent-filter>
+239-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:86:13-89:29
+240                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+240-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:87:17-83
+240-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:87:25-80
+241                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+241-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:88:17-82
+241-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:88:25-79
+242            </intent-filter>
+243        </receiver>
+244        <receiver
+244-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:91:9-100:20
+245            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+245-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:92:13-103
+246            android:directBootAware="false"
+246-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:93:13-44
+247            android:enabled="false"
+247-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:94:13-36
+248            android:exported="false" >
+248-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:95:13-37
+249            <intent-filter>
+249-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:97:13-99:29
+250                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+250-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:98:17-79
+250-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:98:25-76
+251            </intent-filter>
+252        </receiver>
+253        <receiver
+253-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:101:9-112:20
+254            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+254-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:102:13-88
+255            android:directBootAware="false"
+255-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:103:13-44
+256            android:enabled="false"
+256-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:104:13-36
+257            android:exported="false" >
+257-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:105:13-37
+258            <intent-filter>
+258-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:107:13-111:29
+259                <action android:name="android.intent.action.BOOT_COMPLETED" />
+259-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:108:17-79
+259-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:108:25-76
+260                <action android:name="android.intent.action.TIME_SET" />
+260-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:109:17-73
+260-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:109:25-70
+261                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+261-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:110:17-81
+261-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:110:25-78
+262            </intent-filter>
+263        </receiver>
+264        <receiver
+264-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:113:9-122:20
+265            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+265-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:114:13-99
+266            android:directBootAware="false"
+266-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:115:13-44
+267            android:enabled="@bool/enable_system_alarm_service_default"
+267-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:116:13-72
+268            android:exported="false" >
+268-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:117:13-37
+269            <intent-filter>
+269-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:119:13-121:29
+270                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+270-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:120:17-98
+270-->[androidx.work:work-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\4603fe4ce03db3607f98c2423b68a9ce\work-runtime-2.1.0\AndroidManifest.xml:120:25-95
+271            </intent-filter>
+272        </receiver>
+273
+274        <service
+274-->[androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+275            android:name="androidx.room.MultiInstanceInvalidationService"
+275-->[androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+276            android:exported="false" />
+276-->[androidx.room:room-runtime:2.1.0] C:\Users\wycliffe\.gradle\caches\transforms-2\files-2.1\690729066f4f68ef04f82b1cadc8efcb\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+277    </application>
+278
+279</manifest>
